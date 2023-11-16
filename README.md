@@ -1,16 +1,16 @@
-# Material Design
+# Modern Dark Red Theme
 
 ![screenshot](./media/screenshot.png)
 
-A Material Design Theme extension for VS Code. I've been using and perfecting this theme for more than 5 years and I hope you enjoy it.
+A Modern Dark Red Theme Theme extension for VS Code. I've been using and perfecting this theme for more than 5 years and I hope you enjoy it.
 
 ## Install
 
 You can install the extension by one of the following ways:
 
-- Search for `Material Design` in extension panel and install it
-- Download from [Marketplace](https://marketplace.visualstudio.com/items?itemName=michijs.vscode-material-theme)
-- Download from [GitHub Release](https://github.com/michijs/vscode-material-theme/releases) page
+- Search for `Modern Dark Red Theme` in extension panel and install it
+- Download from [Marketplace](https://marketplace.visualstudio.com/items?itemName=michijs.vscode-modern-dark-red-theme)
+- Download from [GitHub Release](https://github.com/michijs/vscode-modern-dark-red-theme/releases) page
 
 ## Preferred settings 
 On user settings (JSON):

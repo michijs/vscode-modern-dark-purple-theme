@@ -1,12 +1,12 @@
 {
-  "name": "michijs-vscode-material-theme",
-  "displayName": "Michi Material Theme",
-  "description": "Vscode Material theme built following Google guidelines",
+  "name": "michijs-vscode-modern-dark-red-theme",
+  "displayName": "Michi Modern Dark Red Theme",
+  "description": "Vscode Michi Modern Dark Red Theme",
   "author": "Lucas M. Segurado",
   "icon": "media/material.png",
-  "repository": "https://github.com/michijs/vscode-material-theme",
+  "repository": "https://github.com/michijs/vscode-modern-dark-red-theme",
   "galleryBanner": {
-    "color": "#672122",
+    "color": "#631C1C",
     "theme": "dark"
   },
   "sponsor": {
@@ -34,9 +34,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Michi Material Theme",
+        "label": "Michi Modern Dark Red Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/material-color-theme.json"
+        "path": "./themes/modern-dark-red-color-theme.json"
       }
     ]
   }
