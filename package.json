@@ -16,7 +16,7 @@
     "dist/"
   ],
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "michijs",
   "engines": {
     "vscode": "^1.76.0"
