@@ -1,22 +1,25 @@
 {
-  "name": "michijs-vscode-modern-dark-red-theme",
-  "displayName": "Michi Modern Dark Red Theme",
-  "description": "Vscode Michi Modern Dark Red Theme",
+  "name": "michijs-vscode-modern-dark-purple-theme",
+  "displayName": "Michi Modern Dark Purple Theme",
+  "description": "Vscode Michi Modern Dark Purple Theme",
   "author": "Lucas M. Segurado",
   "icon": "media/material.png",
-  "repository": "https://github.com/michijs/vscode-modern-dark-red-theme",
+  "repository": "https://github.com/michijs/vscode-modern-dark-purple-theme",
   "galleryBanner": {
-    "color": "#631C1C",
+    "color": "#3A353F",
     "theme": "dark"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/michijs"
   },
   "files": [
-    "dist/"
+    "media",
+    "themes",
+    "LICENSE.md",
+    "README.md"
   ],
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "publisher": "michijs",
   "engines": {
     "vscode": "^1.76.0"
@@ -25,18 +28,19 @@
     "Themes"
   ],
   "scripts": {
-    "package": "vsce package",
+    "tree": "vsce ls --tree",
+    "package": "vsce package --allow-unused-files-pattern",
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "@vscode/vsce": "2.18.0"
+    "@vscode/vsce": "3.2.1"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Michi Modern Dark Red Theme",
+        "label": "Michi Modern Dark Purple Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/modern-dark-red-color-theme.json"
+        "path": "./themes/modern-dark-purple-color-theme.json"
       }
     ]
   }
