@@ -32,10 +32,16 @@
 		"dropdown.border": "#19171C",
 		"editor.background": "#19171C",
 		"editor.foreground": "#e5e1e6E0",
-		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.inactiveSelectionBackground": "#c8adff26",
 		"editor.lineHighlightBackground": "#201D24",
-		"editor.selectionHighlightBackground": "#add6ff26",
-		"editor.selectionHighlightBorder": "#19171C",
+		"editor.selectionHighlightBackground": "#c8adff26",
+		"editor.hoverHighlightBackground": "#c8adff26",
+		"editor.selectionHighlightBorder": "#c8adff26",
+		"selection.background": "#c8adff26",
+		"editor.selectionBackground": "#c8adff26",
+		"editor.wordHighlightBackground": "#0000",
+		"editor.wordHighlightStrongBackground": "#0000",
+		"editor.findMatchHighlightBackground": "#c8adff26",
 		"editorCursor.foreground": "#9d98dd",
 		"editorGroup.border": "#19171C",
 		"editorGroup.emptyBackground": "#19171C",
@@ -54,7 +60,7 @@
 		"editorWhitespace.foreground": "#19171C",
 		"editorWidget.background": "#19171C",
 		"editorWidget.border": "#19171C",
-		"editorLink.activeForeground": "#4F4956",
+		"editorLink.activeForeground": "#bdb9f6",
 		"extensionButton.prominentBackground": "#4F4956",
 		"extensionButton.prominentHoverBackground": "#4F4956",
 		"focusBorder": "#19171C",
@@ -97,11 +103,8 @@
 		"scrollbarSlider.activeBackground": "#e5e1e6E0",
 		"scrollbarSlider.background": "#514B58",
 		"scrollbarSlider.hoverBackground": "#e5e1e693",
-		"selection.background": "#5F5D73",
-		"editor.selectionBackground": "#332F38",
 		"editor.findMatchBackground": "#5F5D73",
 		"editorOverviewRuler.findMatchForeground": "#585160f1",
-		"editor.findMatchHighlightBackground": "#585160f1",
 		"sideBar.background": "#211f25",
 		"sideBar.border": "#514B58",
 		"sideBar.foreground": "#e5e1e6E0",
@@ -273,7 +276,7 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#B77C30"
+				"foreground": "#db8618"
 			}
 		},
 		{
@@ -297,7 +300,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#B77C30"
+				"foreground": "#db8618"
 			}
 		},
 		{
@@ -318,7 +321,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#B77C30"
+				"foreground": "#db8618"
 			}
 		},
 		{
@@ -366,19 +369,19 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#B77C30"
+				"foreground": "#db8618"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#B77C30"
+				"foreground": "#c27d23"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#B77C30"
+				"foreground": "#c27d23"
 			}
 		},
 		{
