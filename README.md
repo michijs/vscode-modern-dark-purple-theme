@@ -29,7 +29,6 @@ On user settings (JSON):
   "editor.fontLigatures": true,
   "explorer.decorations.badges": true,
   "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
-  "sync.gist": "09894e5705e443cec6b65d2e6c7dac96",
   "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
   "terminal.integrated.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
