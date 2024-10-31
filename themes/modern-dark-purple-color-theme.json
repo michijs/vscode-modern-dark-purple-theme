@@ -277,7 +277,7 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#db8618"
+				"foreground": "#cc8897"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#db8618"
+				"foreground": "#cc8897"
 			}
 		},
 		{
@@ -322,7 +322,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#db8618"
+				"foreground": "#cc8897"
 			}
 		},
 		{
@@ -370,7 +370,7 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#db8618"
+				"foreground": "#cc8897"
 			}
 		},
 		{
