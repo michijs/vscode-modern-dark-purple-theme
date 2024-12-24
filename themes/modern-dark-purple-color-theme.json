@@ -3,7 +3,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"gitlens.trailingLineForegroundColor": "#70798C",
+		"git.blame.editorDecorationForeground": "#70798C",
 		"activityBarTop.background": "#211f25",
 		"activityBar.background": "#221F26",
 		"activityBar.border": "#514B58",
