@@ -19,7 +19,7 @@
     "README.md"
   ],
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "michijs",
   "engines": {
     "vscode": "^1.76.0"
