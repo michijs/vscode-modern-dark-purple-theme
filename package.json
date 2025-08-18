@@ -33,7 +33,7 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "@vscode/vsce": "3.2.1"
+    "@vscode/vsce": "3.6.0"
   },
   "contributes": {
     "themes": [
