@@ -1,0 +1,7 @@
+id = "michi-modern-dark-purple"
+name = "Michi Modern Dark Purple"
+version = "0.0.1"
+schema_version = 1
+authors = ["Lucas Segurado <lsegurado@michijs.com>"]
+description = "Michi Modern Dark Purple Theme"
+repository = "https://github.com/michijs/vscode-modern-dark-purple-theme"
