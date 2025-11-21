@@ -1,6 +1,5 @@
 {
 	"name": "Michi Modern Dark Purple Theme",
-	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
 		"git.blame.editorDecorationForeground": "#70798C",
