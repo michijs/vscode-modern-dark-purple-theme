@@ -33,8 +33,8 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "@michijs/shared-configs": "0.0.24",
-    "@vscode/vsce": "3.7.0"
+    "@michijs/shared-configs": "0.0.34",
+    "@vscode/vsce": "3.7.1"
   },
   "contributes": {
     "themes": [
