@@ -33,7 +33,7 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "@michijs/shared-configs": "0.0.34",
+    "@michijs/shared-configs": "0.0.36",
     "@vscode/vsce": "3.7.1"
   },
   "contributes": {
