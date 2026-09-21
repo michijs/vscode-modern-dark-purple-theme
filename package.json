@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@michijs/shared-configs": "0.0.37",
-    "@vscode/vsce": "3.9.2"
+    "@vscode/vsce": "4.0.0"
   },
   "contributes": {
     "themes": [
